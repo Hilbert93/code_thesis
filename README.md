@@ -1,4 +1,5 @@
 # code_thesis
+The cobel directory was taken over from https://github.com/sencheng/CoBeL-RL but only the neccessary scripts have been adopted (with slight changes).
 
 ## Used setup
 Python version 3.10.13
