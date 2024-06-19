@@ -1,5 +1,6 @@
 # code_thesis
 The cobel directory was taken over from https://github.com/sencheng/CoBeL-RL but only the neccessary scripts have been adopted (with slight changes).
+The simple_FW.py script is based on the myfastweights.py from https://github.com/ischlag/Fast-Weight-Memory-public/tree/main/metaRL.
 
 ## Used setup
 Python version 3.10.13
